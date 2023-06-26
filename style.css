@@ -139,8 +139,10 @@ button {
   color: #9AABD8;
   border-radius: 5px;
   border: 2px solid #9AABD8;
+}
 
-
+.reset {
+  width: 70px;
 }
 
 
