@@ -184,6 +184,7 @@ button {
     height: 35px;
     width: 35px;
     font-size: 14px;
+    text-align: center;
   }
 
   .reset {
