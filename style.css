@@ -153,6 +153,46 @@ button {
 }
 
 
+/* CSS for mobile devices */
+@media (max-width: 767px) {
+  body {
+    font-size: 14px;
+  }
+
+  .scoreboard-container {
+    padding: 20px;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  .score {
+    width: 150px;
+    height: 80px;
+    font-size: 3.75rem;
+    line-height: 80px;
+    margin: 10px;
+  }
+
+  h3 {
+    font-size: 30px;
+    line-height: 25px;
+  }
+
+  button {
+    height: 35px;
+    width: 35px;
+    font-size: 14px;
+  }
+
+  .reset {
+    width: 60px;
+  }
+}
+
+
+
 
   
   
