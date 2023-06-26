@@ -15,3 +15,6 @@ Introduction: This is my first solo project using html, css & javascript. The ai
 ## Lessons Learned
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
+
+1. I learnt how to work with local font files.
+2. I increased my competence when using JS functions
