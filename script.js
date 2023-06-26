@@ -8,7 +8,7 @@ let guestScore = 0
 
 // Function to update the score
 function addOnePointHome() {
-    homeScore += 1
+    homeScore++
     homePointsEl.textContent = homeScore
 }
 
@@ -23,7 +23,7 @@ function addThreePointsHome() {
 }
 
 function addOnePointGuest() {
-    guestScore += 1
+    guestScore++
     guestPointsEl.textContent = guestScore
 }
 
