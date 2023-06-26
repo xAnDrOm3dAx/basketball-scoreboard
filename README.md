@@ -17,4 +17,5 @@ Introduction: This is my first solo project using html, css & javascript. The ai
 What did you learn while building this project? What challenges did you face and how did you overcome them?
 
 1. I learnt how to work with local font files.
-2. I increased my competence when using JS functions
+2. I increased my competence when using JS functions.
+3. It's the first time I used Figma to interpret the design.
