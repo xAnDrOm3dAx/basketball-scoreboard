@@ -60,30 +60,72 @@ html {
   font-style: normal;
 }
 
-/* Variables */
-
-h3 {
-  font-family: Verdana, sans-serif;
-}
-
 
 /* Scoreboard Container */
  
-  body {
-    font-family: 'Cursed Timer', Verdana, sans-serif
-  }
+body {
+  font-family: 'Cursed Timer', Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
 
-  .scoreboard-container {
-    background-color: #1B244A;
-    max-width: 575px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 300px;
-    border: 3px solid yellow;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-  }
+.scoreboard-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  flex-shrink: 0;
+
+  background-color: #1B244A;
+  max-width: 710px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid white;
+  padding: 30px 50px;
+}
+
+
+/* Home and Guest Containers */
+
+h3 {    
+  display: flex;
+  width: 149px;
+  flex-direction: column;
+  flex-shrink: 0;
+  
+  color: #EEE;
+  text-align: center;
+  font-size: 40px;
+  font-family: Verdana;
+  font-weight: 700;
+  line-height: 35.893px;
+}
+
+.guest-container,
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+
+.score {
+  width: 155px;
+  height: 120px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  background: #080001;
+  color: #F94F6D;
+  font-size: 5.625rem;
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 20px;
+  line-height: 120px;
+}
+
 
 
   
