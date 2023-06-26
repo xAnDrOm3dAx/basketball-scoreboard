@@ -79,7 +79,7 @@ body {
   flex-shrink: 0;
 
   background-color: #1B244A;
-  max-width: 710px;
+  max-width: 730px;
   margin-left: auto;
   margin-right: auto;
   border: 3px solid white;
@@ -125,6 +125,8 @@ h3 {
   margin: 20px;
   line-height: 120px;
 }
+
+
 
 
 
