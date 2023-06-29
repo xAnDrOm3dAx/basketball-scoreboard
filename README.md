@@ -8,6 +8,8 @@ Technologies Used: HTML, CSS & Javascript
 
 Introduction: This is my first solo project using html, css & javascript. The aim is to create a basketball scoreboard that keeps score for two teams. Each team has three buttons to increment the score by one, two and three points.
 
+## Live Preview: https://xandrom3dax.github.io/basketball-scoreboard/
+
 ## Screenshots
 
 ![App Screenshot](assets/Screenshot.png)
